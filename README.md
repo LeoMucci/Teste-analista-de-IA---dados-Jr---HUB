@@ -12,7 +12,6 @@ O projeto abrange as seguintes funcionalidades:
 
 1.  **Análise de Dados e Insights:**
     *   Processamento de dados de vendas, estadias, produtos e métodos de pagamento.
-    *   Geração de visualizações gráficas para identificar tendências e padrões.
     *   Simulação de queries SQL usando Pandas para demonstração.
 
 2.  **Chatbot Interativo (MVP):**
@@ -40,7 +39,6 @@ O projeto abrange as seguintes funcionalidades:
 
 6.  **Documentação Completa:**
     *   Relatório técnico detalhado com análises e metodologia.
-    *   Guia de implementação passo a passo.
     *   README abrangente para o GitHub.
 
 ## 🛠️ Tecnologias Utilizadas
